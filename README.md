@@ -36,7 +36,8 @@ With Legalization of Marijuana in some form either recreational or medical being
 
 
 ![](https://github.com/mdetiberiis01/Photos/blob/master/MA_forecast.png) ![](https://github.com/mdetiberiis01/Photos/blob/master/MA_residuals.png)
-- As an evaluation metric I used RMSE because in this type of analysis I felt it is most important to have an idea how far your prediction is away from the actual number since our prediction will be involved in future calculations.
+
+- As an evaluation metric I used RMSE (ranging among our models from 3.8% to 13.2%)because in this type of analysis I felt it is most important to have an idea how far your prediction is away from the actual number since our prediction will be involved in future calculations.
 
 ## Business Insight
 - Given the exploration of the data, the best course of action would be for more states to follow the lead of Colroado, Massachusetts, Oregon, California, and many others who have legalized marijuana.
