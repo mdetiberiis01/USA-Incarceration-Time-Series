@@ -28,7 +28,7 @@ With Legalization of Marijuana in some form either recreational or medical being
 
 - Looking at Louisianna and Mississippi, we see quite the opposite. We see almost the inverse actually
 
-![](https://github.com/mdetiberiis01/Photos/blob/master/LA_jail:pop.png) ![](https://github.com/mdetiberiis01/Photos/blob/master/MS_jail:pop.png)
+![](https://github.com/mdetiberiis01/Photos/blob/master/LA_jail_pop.png) ![](https://github.com/mdetiberiis01/Photos/blob/master/MS_jail:pop.png)
 
 - Our model performed quite well with an RMSE between 9.37 and 9.53. As you can see in the figure our predictions were quite close to the actual values. 
 
