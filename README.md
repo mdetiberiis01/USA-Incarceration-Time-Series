@@ -26,16 +26,17 @@ With Legalization of Marijuana in some form either recreational or medical being
 
 ![](https://github.com/mdetiberiis01/Photos/blob/master/CO_jail:pop.png) ![](https://github.com/mdetiberiis01/Photos/blob/master/MA_jail:pop.png)
 
-- Looking at Louisianna and Mississippi, we see quite the opposite. We see almost the inverse actually
+- Looking at Louisianna and Mississippi, we see quite the opposite. We see almost the inverse actually, where the black population has a disproportionate population inside of the states jails, compared to the much higher population of white individuals.
 
 ![](https://github.com/mdetiberiis01/Photos/blob/master/LA_jail_pop.png) ![](https://github.com/mdetiberiis01/Photos/blob/master/MS_jail:pop.png)
 
-- Our model performed quite well with an RMSE between 9.37 and 9.53. As you can see in the figure our predictions were quite close to the actual values. 
+- It is important to remember this does not PROVE anything, but rather shows a correlation in the two instances.
 
-- In recent times, on average more days have had a higher open than close price which can be seen in the steady decline in share value since 2018.
+- Our prediction for Colorado and Massachusetts show an increase of only 24 and 78 inmates respectivley, actually predicting lower rates in many counties, while Louisianna and Mississippi both indicate much higher numbers of 1114 and 396 respectivley. 
 
-- We predicted an opening price of $174.62 and a closing price of $181.96 for the week of 10/19/2020 and 10/23/2020, which is a good indication we should buy this week and sell before market close at weeks end.
 
+![](https://github.com/mdetiberiis01/Photos/blob/master/MA_forecast.png) ![](https://github.com/mdetiberiis01/Photos/blob/master/MA_residuals.png)
+- As an evaluation metric I used RMSE because in this type of analysis I felt it is most important to have an idea how far your prediction is away from the actual number since our prediction will be involved in future calculations.
 
 ## Business Insight
 - The week of October 19, 2020 to October 23, 2020 is a good week buy shares early in the week and sell before market close on Friday.
