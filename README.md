@@ -32,18 +32,25 @@ With Legalization of Marijuana in some form either recreational or medical being
 
 - It is important to remember this does not PROVE anything, but rather shows a correlation in the two instances.
 
-- Our prediction for Colorado and Massachusetts show an increase of only 24 and 78 inmates respectivley, actually predicting lower rates in many counties, while Louisianna and Mississippi both indicate much higher numbers of 1114 and 396 respectivley. 
+- Our prediction for Colorado and Massachusetts show an swing of -44 and +78 inmates respectivley, actually predicting lower rates in many counties, while Louisianna and Mississippi both indicate much higher numbers of +1067 and +377 respectivley. 
 
 
 ![](https://github.com/mdetiberiis01/Photos/blob/master/MA_forecast.png) ![](https://github.com/mdetiberiis01/Photos/blob/master/MA_residuals.png)
 - As an evaluation metric I used RMSE because in this type of analysis I felt it is most important to have an idea how far your prediction is away from the actual number since our prediction will be involved in future calculations.
 
 ## Business Insight
-- The week of October 19, 2020 to October 23, 2020 is a good week buy shares early in the week and sell before market close on Friday.
+- Given the exploration of the data, the best course of action would be for more states to follow the lead of Colroado, Massachusetts, Oregon, California, and many others who have legalized marijuana.
 
-- ZEEL has been having more days with a lower closing price than opening price since which would make us suggest looking for a new company to invest in in order to have higher returns at a faster rate. 
+- One of the main reason for suggesting this is becasue it can be argued that the enforcement of these policies effect communities of color at a much more higher rate, leading to more poeple being put in jail, and even if it is for just a weekend or a few days, that can turn a persons life upside down with their job and a number of other things.
 
-## Limitations and Future Work
-- One main limitation would be regarding the nsepy library. The library only has a select few number of stock that allow historic data access. Because of this our model will not scale for all stocks.
+- Second reason for suggesting this related to the economy, especially as we try to bounce back from this pandemic. In 2019 Colorado collected $302 Million in marijuana taxes, and Massachusetts in their first full legal year collected over $71 Million, and is expected to increase.
 
-- I would like to find an alternative data source so the model will be usable for more than the select few stocks.
+- Comparing this revenue to the cost that states like Louisianna and Mississippi spend on keeping people in jail, it ammounts to a huge swing. 
+
+- According to our predictions, Louisianna and Mississippi are spending $355888.33 and $160120.80 per day to house inmates. Colorado and Massachussetts are sliughtly bigger than LA and MS, but they too could see tax reven revenue within this same window which is between $191780.82 and $827397.26 daily.
+
+## Sourcing
+- USA Incarceration Data
+- https://www.vera.org/publications/price-of-prisons-2015-state-spending-trends/price-of-prisons-2015-state-spending-trends/price-of-prisons-2015-state-spending-trends-prison-spending
+
+
