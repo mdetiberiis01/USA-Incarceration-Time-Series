@@ -13,7 +13,7 @@ With Legalization of Marijuana in some form either recreational or medical being
 - Compare the cost of housing prisoners with the sales revenue in states that have a thriving legal marijauana market.
 
 ## The Approach
-- Used the nsepy library to pull the ZEEL stock data from Jan 1, 2015 to October 22, 2020
+- Collected USA incarceration data, cleaned, and visualized important findings.
 
 - Engineer features to give model deeper insight
 
