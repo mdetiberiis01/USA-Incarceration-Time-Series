@@ -32,7 +32,7 @@ With Legalization of Marijuana in some form either recreational or medical being
 
 - It is important to remember this does not PROVE anything, but rather shows a correlation in the two instances.
 
-- Our prediction for Colorado and Massachusetts show an swing of -44 and +78 inmates respectivley, actually predicting lower rates in many counties, while Louisianna and Mississippi both indicate much higher numbers of +1067 and +377 respectivley. 
+- Our prediction for Colorado and Massachusetts show an swing of +24 and +78 inmates respectivley, actually predicting lower rates in many counties, while Louisianna and Mississippi both indicate much higher numbers of +1067 and +377 respectivley. 
 
 - Massachusets forecast for example
 
